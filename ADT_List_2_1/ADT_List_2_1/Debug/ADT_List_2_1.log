@@ -1,3 +1,8 @@
-﻿  ADT_List_main.cpp
+﻿  ADT_List_achieve.cpp
+f:\vsproject\project\grade_2\adt_list_2_1\adt_list_2_1\adt_list_achieve.cpp(24): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+  正在编译...
+  ADT_List_main.cpp
+  正在生成代码...
   ADT_List_2_1.vcxproj -> F:\vsproject\project\grade_2\ADT_List_2_1\Debug\ADT_List_2_1.exe
   ADT_List_2_1.vcxproj -> F:\vsproject\project\grade_2\ADT_List_2_1\Debug\ADT_List_2_1.pdb (Full PDB)

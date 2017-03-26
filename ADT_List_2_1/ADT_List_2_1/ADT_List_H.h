@@ -1,6 +1,3 @@
-//#ifdef ADT_List_H
-//#define ADT_List_H
-
 #define MAXSIZE 100	//顺序表可能达到的最大长度
 #define  OVERFLOW -1
 #define OK true;
@@ -21,4 +18,4 @@ Status ListInsert(SqList &L, int i, ElemType e);//在顺序表L中的第i个位置之前插入
 Status ListDelete(SqList &L, int i);//顺序表的删除
 
 
-//#endif
+
