@@ -1,0 +1,7 @@
+﻿  DublexLink_List_achieve.cpp
+f:\vsproject\project\databasestruct\duplexlink_list_2_4\duplexlink_list_2_4\dublexlink_list_achieve.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\databasestruct\duplexlink_list_2_4\duplexlink_list_2_4\dublexlink_list_achieve.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  DuplexLink_list_2_4.vcxproj -> F:\vsproject\project\DataBaseStruct\DuplexLink_list_2_4\Debug\DuplexLink_list_2_4.exe
+  DuplexLink_list_2_4.vcxproj -> F:\vsproject\project\DataBaseStruct\DuplexLink_list_2_4\Debug\DuplexLink_list_2_4.pdb (Full PDB)
