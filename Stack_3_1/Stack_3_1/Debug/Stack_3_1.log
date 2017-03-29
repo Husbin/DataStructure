@@ -1,0 +1,5 @@
+﻿  Stack_achieve.cpp
+f:\vsproject\project\datastructure\stack_3_1\stack_3_1\stack_achieve.cpp(29): warning C4715: “Push”: 不是所有的控件路径都返回值
+f:\vsproject\project\datastructure\stack_3_1\stack_3_1\stack_achieve.cpp(47): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  Stack_3_1.vcxproj -> F:\vsproject\project\DataStructure\Stack_3_1\Debug\Stack_3_1.exe
+  Stack_3_1.vcxproj -> F:\vsproject\project\DataStructure\Stack_3_1\Debug\Stack_3_1.pdb (Full PDB)
