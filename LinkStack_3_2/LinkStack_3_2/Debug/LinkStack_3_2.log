@@ -1,0 +1,6 @@
+﻿  LinkStack_main.cpp
+  LinkStack_achieve.cpp
+  正在生成代码...
+f:\vsproject\project\datastructure\linkstack_3_2\linkstack_3_2\linkstack_achieve.cpp(44): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  LinkStack_3_2.vcxproj -> F:\vsproject\project\DataStructure\LinkStack_3_2\Debug\LinkStack_3_2.exe
+  LinkStack_3_2.vcxproj -> F:\vsproject\project\DataStructure\LinkStack_3_2\Debug\LinkStack_3_2.pdb (Full PDB)

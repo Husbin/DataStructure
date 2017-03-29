@@ -1,5 +1,5 @@
 #pragma once
-//----------------顺序栈的存储结构----------------
+
 #define MAXSIZE 100			//顺序栈存储空间的初始分配量
 #define OK true
 #define ERROR false
@@ -7,7 +7,7 @@
 typedef int SElemType;
 typedef bool Status;
 
-
+//----------------顺序栈的存储结构----------------
 typedef struct Stack {
 	SElemType *base;		//栈底指针
 	SElemType *top;			//栈顶指针

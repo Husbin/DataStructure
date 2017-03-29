@@ -24,9 +24,9 @@ PNODE create_QueueList() {
 		printf("请输入第%d个节点的数据：", i + 1);
 		scanf("%d", &val);
 		pNew->data = val;
-		pTail->pNext = pNew;
-		pNew->pNext = pHead;
-		pTail = pNew;
+		pTail->pNext = pNew;//后插法，将新节点插到尾节点后面
+		pNew->pNext = pHead;//新节点的指针域指向头节点
+		pTail = pNew;		//将可移动的尾节点重新指向最后一个节点。
 	}
 	return pHead;
 }
