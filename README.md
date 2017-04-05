@@ -1,4 +1,4 @@
-# DataStructure
+﻿# DataStructure
 数据结构各种基本实现。
 
 ----------线性结构-----------------</br>
@@ -96,3 +96,4 @@ typedef struct Stack {</br>
 }SQ_STACK;</br>
 
 base为栈底指针，初始化完成后，栈底指针base始终指向栈底的位置，若base的值为NULL，则表面栈结构不存在。top为栈顶指针，其初始值指向栈底。每当插入新的栈顶元素时，指针top增加1，删除栈顶元素时，指针top减少1.因此，栈空时，top和base的值相等，都指向栈底，栈非空时，top始终指向栈顶元素的上一个位置。</br>
+</br>
