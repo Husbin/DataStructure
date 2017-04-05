@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="QueueLink_List_H.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="CycleLink_List_achieve.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CycleLink_List_main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="QueueLink_List_achieve.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="QueueLink_List_main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    <ClInclude Include="CycleLink_List_H.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

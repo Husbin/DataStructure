@@ -9,5 +9,5 @@ typedef struct Node {
 }LNode , *PNODE;
 
 
-PNODE create_QueueList();
-void traverse_QueueList(PNODE pHead);
+PNODE create_CycleList();
+void traverse_CycleList(PNODE pHead);

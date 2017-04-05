@@ -142,11 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="QueueLink_List_H.h" />
+    <ClInclude Include="CycleLink_List_H.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="QueueLink_List_achieve.cpp" />
-    <ClCompile Include="QueueLink_List_main.cpp" />
+    <ClCompile Include="CycleLink_List_achieve.cpp" />
+    <ClCompile Include="CycleLink_List_main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

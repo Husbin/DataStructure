@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<malloc.h>
 #include<stdlib.h>
-#include"QueueLink_List_H.h"
+#include"CycleLink_List_H.h"
 
-PNODE create_QueueList() {
+PNODE create_CycleList() {
 	int len;
 	int val;
 	PNODE pHead = (PNODE)malloc(sizeof(LNode));
@@ -31,7 +31,7 @@ PNODE create_QueueList() {
 	return pHead;
 }
 
-void traverse_QueueList(PNODE pHead) {
+void traverse_CycleList(PNODE pHead) {
 	int count = 0;
 	printf("遍历结果如下：\n");
 	if (pHead->pNext == NULL) {

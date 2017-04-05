@@ -1,7 +1,10 @@
-﻿  QueueLink_List_achieve.cpp
-f:\vsproject\project\databasestruct\queuelink_list_2_3\queuelink_list_2_3\queuelink_list_achieve.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  CycleLink_List_main.cpp
+  CycleLink_List_achieve.cpp
+f:\vsproject\project\datastructure\cyclelink_list_2_3\queuelink_list_2_3\cyclelink_list_achieve.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-f:\vsproject\project\databasestruct\queuelink_list_2_3\queuelink_list_2_3\queuelink_list_achieve.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+f:\vsproject\project\datastructure\cyclelink_list_2_3\queuelink_list_2_3\cyclelink_list_achieve.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-  QueueLink_List_2_3.vcxproj -> F:\vsproject\project\DataBaseStruct\QueueLink_List_2_3\Debug\QueueLink_List_2_3.exe
-  QueueLink_List_2_3.vcxproj -> F:\vsproject\project\DataBaseStruct\QueueLink_List_2_3\Debug\QueueLink_List_2_3.pdb (Full PDB)
+  正在生成代码...
+  LINK : 没有找到 F:\vsproject\project\DataStructure\CycleLink_List_2_3\Debug\QueueLink_List_2_3.exe 或上一个增量链接没有生成它；正在执行完全链接
+  QueueLink_List_2_3.vcxproj -> F:\vsproject\project\DataStructure\CycleLink_List_2_3\Debug\QueueLink_List_2_3.exe
+  QueueLink_List_2_3.vcxproj -> F:\vsproject\project\DataStructure\CycleLink_List_2_3\Debug\QueueLink_List_2_3.pdb (Full PDB)
