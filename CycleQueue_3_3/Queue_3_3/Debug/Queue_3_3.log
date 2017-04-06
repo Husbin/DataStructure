@@ -1,0 +1,5 @@
+﻿  Queue_achieve.cpp
+f:\vsproject\project\datastructure\queue_3_3\queue_3_3\queue_achieve.cpp(46): warning C4715: “getHead”: 不是所有的控件路径都返回值
+f:\vsproject\project\datastructure\queue_3_3\queue_3_3\queue_achieve.cpp(60): warning C4715: “traverse_Queue”: 不是所有的控件路径都返回值
+  Queue_3_3.vcxproj -> F:\vsproject\project\DataStructure\Queue_3_3\Debug\Queue_3_3.exe
+  Queue_3_3.vcxproj -> F:\vsproject\project\DataStructure\Queue_3_3\Debug\Queue_3_3.pdb (Full PDB)
