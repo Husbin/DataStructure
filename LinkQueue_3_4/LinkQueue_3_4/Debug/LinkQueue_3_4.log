@@ -1,0 +1,5 @@
+﻿  LinkQueue_achieve.cpp
+f:\vsproject\project\datastructure\linkqueue_3_4\linkqueue_3_4\linkqueue_achieve.cpp(47): warning C4715: “GetHead”: 不是所有的控件路径都返回值
+f:\vsproject\project\datastructure\linkqueue_3_4\linkqueue_3_4\linkqueue_achieve.cpp(62): warning C4715: “traverse_LinkQueue”: 不是所有的控件路径都返回值
+  LinkQueue_3_4.vcxproj -> F:\vsproject\project\DataStructure\LinkQueue_3_4\Debug\LinkQueue_3_4.exe
+  LinkQueue_3_4.vcxproj -> F:\vsproject\project\DataStructure\LinkQueue_3_4\Debug\LinkQueue_3_4.pdb (Full PDB)
