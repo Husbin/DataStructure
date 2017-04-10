@@ -1,0 +1,8 @@
+﻿  Matching_achieve.cpp
+f:\vsproject\project\datastructure\matching_3_6\matching_3_6\matching_achieve.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\matching_3_6\matching_3_6\matching_achieve.cpp(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\matching_3_6\matching_3_6\matching_achieve.cpp(41): warning C4715: “getTop”: 不是所有的控件路径都返回值
+  Matching_3_6.vcxproj -> F:\vsproject\project\DataStructure\Matching_3_6\Debug\Matching_3_6.exe
+  Matching_3_6.vcxproj -> F:\vsproject\project\DataStructure\Matching_3_6\Debug\Matching_3_6.pdb (Full PDB)
