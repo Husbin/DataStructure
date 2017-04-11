@@ -1,0 +1,18 @@
+﻿  EvaluateExpression_achieve.cpp
+f:\vsproject\project\datastructure\evaluateexpression_3_7\evaluateexpression_3_7\evaluateexpression_achieve.cpp(61): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+f:\vsproject\project\datastructure\evaluateexpression_3_7\evaluateexpression_3_7\evaluateexpression_achieve.cpp(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\vsproject\project\datastructure\evaluateexpression_3_7\evaluateexpression_3_7\evaluateexpression_achieve.cpp(103): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+f:\vsproject\project\datastructure\evaluateexpression_3_7\evaluateexpression_3_7\evaluateexpression_achieve.cpp(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\evaluateexpression_3_7\evaluateexpression_3_7\evaluateexpression_achieve.cpp(110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+f:\vsproject\project\datastructure\evaluateexpression_3_7\evaluateexpression_3_7\evaluateexpression_achieve.cpp(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  正在生成代码...
+f:\vsproject\project\datastructure\evaluateexpression_3_7\evaluateexpression_3_7\evaluateexpression_achieve.cpp(86): warning C4715: “ReturnOpOrd”: 不是所有的控件路径都返回值
+  正在编译...
+  EvaluateExpression.cpp
+  正在生成代码...
+  EvaluateExpression_3_7.vcxproj -> F:\vsproject\project\DataStructure\EvaluateExpression_3_7\Debug\EvaluateExpression_3_7.exe
+  EvaluateExpression_3_7.vcxproj -> F:\vsproject\project\DataStructure\EvaluateExpression_3_7\Debug\EvaluateExpression_3_7.pdb (Full PDB)
