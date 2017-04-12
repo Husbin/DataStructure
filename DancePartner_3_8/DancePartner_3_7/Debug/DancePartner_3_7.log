@@ -1,0 +1,25 @@
+﻿  DancePartner_main.cpp
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\vsproject\project\datastructure\dancepartner_3_7\dancepartner_3_7\dancepartner_main.cpp(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  DancePartner_3_7.vcxproj -> F:\vsproject\project\DataStructure\DancePartner_3_7\Debug\DancePartner_3_7.exe
+  DancePartner_3_7.vcxproj -> F:\vsproject\project\DataStructure\DancePartner_3_7\Debug\DancePartner_3_7.pdb (Full PDB)
