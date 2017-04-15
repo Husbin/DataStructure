@@ -1,13 +1,13 @@
 ﻿  PolishExpression_achieve.cpp
 f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(74): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
-f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(107): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+f:\vsproject\project\datastructure\polishexpression_3_9\polishexpression_3_9\polishexpression_achieve.cpp(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
   PolishExpression_3_9.vcxproj -> F:\vsproject\project\DataStructure\PolishExpression_3_9\Debug\PolishExpression_3_9.exe
   PolishExpression_3_9.vcxproj -> F:\vsproject\project\DataStructure\PolishExpression_3_9\Debug\PolishExpression_3_9.pdb (Full PDB)

@@ -61,52 +61,42 @@ void PolishExpression() {
 	float num = 0.00;
 	float scale = 0.00;
 	float x1 = 0.00, x2 = 0.00;
-	while (ch[i] != '$')
-	{
-		if ((ch[i] >= '0' && ch[i] <= '9') || ch[i] == '.') {
-			while ((ch[i] >= '0' && ch[i] <= '9') || ch[i] == '.')  //拼数
-				if (ch[i] != '.' && ch[i] != ' ')   //处理整数
-				{
-					num = num * 10 + (ch[i] - '0');
-					i++;
-					scanf("%c", &ch[i]);
-				}
-			if (ch[i] == '.')           //处理小数部分。
-			{
+	while (ch[i] != '$') {
+		while ((ch[i] >= '0' && ch[i] <= '9') || ch[i] == '.') {  //拼数
+			if (ch[i] != '.' && ch[i] != ' ') {				//处理整数
+				num = num * 10 + (ch[i] - '0');
+				i++;
+				scanf("%c", &ch[i]);
+			}
+			if (ch[i] == '.') {									//处理小数部分。
 				scale = 10.0;
 				i++;
 				scanf("%c", &ch[i]);
-				while (ch[i] >= '0' && ch[i] <= '9')
-				{
+				while (ch[i] >= '0' && ch[i] <= '9') {
 					num = num + (ch[i] - '0') / scale;
 					scale = scale * 10;
 					i++;
 					scanf("%c", &ch[i]);
 				}
 			}
-			Push(OPND, num);
-			num = 0.0;//数压入栈，下个数初始化
-			scale = 10.0;
-			//if (ch[i] = ' ') {
-			//	continue;
-			//	//遇空格，继续读下一个字符。
-			//}
-			if (ch[i] == '+') {
-				Push(OPND, Pop(OPND) + Pop(OPND));
-			}
-			if (ch[i] == '-') {
-				x1 = Pop(OPND); x2 = Pop(OPND); Push(OPND, x2 - x1);
-			}
-			if (ch[i] == '*') {
-				Push(OPND, Pop(OPND)* Pop(OPND));
-			}
-			if (ch[i] == '/') {
-				x1 = Pop(OPND); x2 = Pop(OPND); Push(OPND, x2 / x1);
-			}
-			i++;
-			scanf("%c", &ch[i]);//读入表达式中下一个字符。
 		}
-
+		Push(OPND, num);
+		num = 0.0;//数压入栈，下个数初始化
+		scale = 10.0;
+		if (ch[i] == '+') {
+			Push(OPND, Pop(OPND) + Pop(OPND));
+		}
+		if (ch[i] == '-') {
+			x1 = Pop(OPND); x2 = Pop(OPND); Push(OPND, x2 - x1);
+		}
+		if (ch[i] == '*') {
+			Push(OPND, Pop(OPND)* Pop(OPND));
+		}
+		if (ch[i] == '/') {
+			x1 = Pop(OPND); x2 = Pop(OPND); Push(OPND, x2 / x1);
+		}
+		i++;
+		scanf("%c", &ch[i]);//读入表达式中下一个字符。
 	}
 	printf("后缀表达式的值为: %.2f", Pop(OPND));
 	printf("\n");
