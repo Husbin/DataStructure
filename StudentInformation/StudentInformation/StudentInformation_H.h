@@ -26,6 +26,7 @@ typedef struct LNode{
 	struct LNode *next;	//指针域
 }LNode ,*LinkList;
 
+/*-----------------顺序表操作------------------------*/
 //初始化顺序表
 Status InitSqList(SqList &SL);
 //录入学生信息
@@ -43,5 +44,21 @@ Status DeleteInformation(SqList &SL, int pos);
 //统计表中学生个数
 int SqListLength(SqList SL);
 
+
+/*---------------单链表操作------------------------------*/
 //初始化链表
 Status InitLinkList(LinkList &L);
+//录入学生信息
+LinkList CreateList(LinkList &L);
+//遍历学生信息
+Status TraverseLinkList(LinkList pHead);
+//根据姓名进行查找，返回此学生的学号和成绩
+Status LserchByName(LinkList pHead, char* name);
+//根据指定的位置可返回相应的学生信息（学号，姓名，成绩）
+Status LserchByPos(LinkList pHead, int pos);
+//给定一个学生信息，插入到表中指定的位置
+Status Insert(LinkList pHead, int pos);
+//删除指定位置的学生记录(pos - 1位)
+Status Delete(LinkList pHead, int pos);
+//统计表中学生个数
+int LinkListLength(LinkList pHead);
