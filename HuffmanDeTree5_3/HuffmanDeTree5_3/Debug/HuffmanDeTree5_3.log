@@ -1,0 +1,7 @@
+﻿  HuffmanDeTree_achieve.cpp
+f:\vsproject\project\datastructure\huffmandetree5_3\huffmandetree5_3\huffmandetree_achieve.cpp(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  HuffmanDeTree.cpp
+  正在生成代码...
+  HuffmanDeTree5_3.vcxproj -> F:\vsproject\project\DataStructure\HuffmanDeTree5_3\Debug\HuffmanDeTree5_3.exe
+  HuffmanDeTree5_3.vcxproj -> F:\vsproject\project\DataStructure\HuffmanDeTree5_3\Debug\HuffmanDeTree5_3.pdb (Full PDB)
