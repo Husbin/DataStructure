@@ -1,0 +1,36 @@
+﻿  Graph_main.cpp
+  Graph_achieve.cpp
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(71): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(96): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(107): warning C4101: “weight”: 未引用的局部变量
+  正在生成代码...
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(33): warning C4715: “LocateVex_2”: 不是所有的控件路径都返回值
+f:\vsproject\project\datastructure\graph_6_1\graph_6_1\graph_achieve.cpp(19): warning C4715: “LocateVex_1”: 不是所有的控件路径都返回值
+  Graph_6_1.vcxproj -> F:\vsproject\project\DataStructure\Graph_6_1\Debug\Graph_6_1.exe
+  Graph_6_1.vcxproj -> F:\vsproject\project\DataStructure\Graph_6_1\Debug\Graph_6_1.pdb (Full PDB)
