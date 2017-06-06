@@ -1,3 +1,4 @@
+//Tickets_achieve.cpp
 #include"Tickets_H.h"
 #include<stdio.h>
 #include<stdlib.h>
@@ -93,8 +94,8 @@ Status EnQueue(Queue &queue, HashTable* &hashTab,long int hashVal, bool hasFrien
 		for (int i = queue.rear - 1 ; i > maxIndex; i--) {
 			queue.base[i] = queue.base[i - 1];
 			//hashTab[hashVal].index = queue.rear;
-			printf("%d\t%d\t\n", queue.base[i], queue.base[i - 1]);
-			printf("%s\t%s\t\n", hashTab[i].name, hashTab[i - 1].name);
+			//printf("%d\t%d\t\n", queue.base[i], queue.base[i - 1]);
+			//printf("%s\t%s\t\n", hashTab[i].name, hashTab[i - 1].name);
 		}
 		queue.base[maxIndex + 1] = queue.base[queue.rear];
 		hashTab[hashVal].index = queue.rear;
@@ -107,7 +108,7 @@ Status EnQueue(Queue &queue, HashTable* &hashTab,long int hashVal, bool hasFrien
 
 
 //队列出队
-Status DeQueue(Queue &queue, HashTable* &hashTab ,long int &hashVal) {
+Status DeQueue(Queue &queue, HashTable* &hashTab ,long int &hashVal , char *name) {
 	if (queue.hashVal == NULL) {
 		printf("Parameter queue NULL , out Line failed !\n");
 		return ERROR;
@@ -117,6 +118,8 @@ Status DeQueue(Queue &queue, HashTable* &hashTab ,long int &hashVal) {
 		return ERROR;
 	}
 	hashVal = queue.base[queue.front];	//保存元素值
+	strcpy(name, hashTab[hashVal].name);//保存姓名
+
 	//清空哈希值
 	strcpy(hashTab[hashVal].name , "");
 	hashTab[hashVal].status = false;

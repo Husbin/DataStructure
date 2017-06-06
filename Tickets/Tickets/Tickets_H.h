@@ -1,3 +1,4 @@
+//Tickets_H.h
 #pragma once
 //在每个队伍允许插队的情况下，若你在排队，有一个以上的朋友要求插队，你可以安排他们的顺序，
 //每次一个人入队，并且如果这个入队的人发现队伍中有自己的朋友，则可以插入到这个朋友的后面，
@@ -47,7 +48,7 @@ long int HashVal(Queue &queue , HashTable* &hashTab, char *name);
 Status EnQueue(Queue &queue, HashTable* &hashTab, long int hashVal , bool hasFriend , long int maxIndex);
 
 //队列出队
-Status DeQueue(Queue &queue , HashTable* &hashTab ,long int &hashVal);
+Status DeQueue(Queue &queue , HashTable* &hashTab ,long int &hashVal , char *name);
 
 //队列的遍历
 Status TraverseQueue(Queue queue , HashTable *hashTab);
